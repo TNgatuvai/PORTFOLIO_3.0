@@ -250,3 +250,38 @@ cursor: pointer;
 	box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 14px 1px rgba(0, 0, 0, 0.15);
 }
 
+/* footer starts */
+
+#footer {
+	padding: 5em 4em 2em;
+}
+
+#footer #logo {
+	background-color: rgba(255, 103, 68, 0.91);
+	border-radius: 50%;
+	color: #fff;
+	padding: .4em;
+	font-family: "Maven pro", sans-serif;
+	font-size: 1.6em;
+	font-weight: 500;
+	display: inline;
+}
+
+#footer #copyright {
+	margin-top: 1.6em;
+	font-family: "Maven pro", sans-serif;
+	font-weight: 500;
+	color: #7d7d7d;
+}
+
+
+.profile-photo {
+	width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    border-radius: 50%;
+    background-size: cover;
+    margin-top: -100px;
+    margin-bottom: 40px;
+
+}
