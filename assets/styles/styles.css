@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
 .my-button:active,
 .my-button:focus,
 .my-button.active {
-  background-image: none;
+  background-image: none; 
   outline: 0;
   -webkit-box-shadow: none;
           box-shadow: none;
